@@ -46,7 +46,7 @@ for more details Click Here If the application files that you want to deploy are
 
 mkdir codedeploy-sample
 cd codedeploy-sample
-curl -O http://s3.amazonaws.com/aws-codedeploy-us-east-1/samples/latest/SampleApp_Linux.zip
+curl -O http://s3.amazonaws.com/aws-codedeploy-us-east-1/samples/latest/ITC-Project.zip
 
 
 You can upload SampleApp_Linux.zip file on S3 for further automatic deployment on CodeDeploy Pipeline
